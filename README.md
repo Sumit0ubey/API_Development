@@ -12,11 +12,11 @@ API_Development is a RESTful API built using **FastAPI** and **PostgreSQL**. It 
 ## Projects
 
 ### [1. PostAPI](https://github.com/Sumit0ubey/PostAPP/tree/08a233f62b2d4267655d777e7f3be9d16e9b0269)
-  PostAPP is a RESTful API built using FastAPI and PostgreSQL
+  - PostAPP is a RESTful API built using FastAPI and PostgreSQL
 
 ## License
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Sumit0ubey](https://github.com/Sumit0ubey).
+Developed by [Sumit dubey](https://github.com/Sumit0ubey).
 
