@@ -1,6 +1,6 @@
 # API_Development
 
-API_Development is a RESTful API built using **FastAPI** and **PostgreSQL**. It is designed for high-performance backend development, leveraging asynchronous request handling and efficient data management. The project follows RESTful principles, ensuring scalability, security, and seamless integration with frontend applications.
+API_Development is Repository full of RESTful API Projects built using **FastAPI** and **PostgreSQL**. It is designed for high-performance backend development, leveraging asynchronous request handling and efficient data management. The project follows RESTful principles, ensuring scalability, security, and seamless integration with frontend applications.
 
 ## Features
 - FastAPI-based backend for high-performance API requests
