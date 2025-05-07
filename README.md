@@ -21,3 +21,6 @@ This project is licensed under the MIT License.
 ## Author
 Developed by [Sumit dubey](https://github.com/Sumit0ubey).
 
+> 📌 **Disclaimer:**  
+> This project is intended for **educational purposes only**. All content, including code and assets, is shared to help students/developers learn and grow. Any resemblance to other apps, icons, or designs is purely coincidental. Please do not use this project for commercial purposes without proper permissions.
+
