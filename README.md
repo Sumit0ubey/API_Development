@@ -15,6 +15,11 @@ API_Development is Repository full of RESTful API Projects built using **FastAPI
   - PostAPP is a RESTful API built using FastAPI and PostgreSQL
   - Designed for high performance and scalability
 
+### [2. EmailServiceAPI](https://github.com/Sumit0ubey/EmailServiceAPP)
+  - EmailService is a RESTful API built using FastAPI and PostgreSQL
+  - Designed for high performance and scalability
+  - Design to send email to anyone at anytime
+    
 ## License
 This project is licensed under the MIT License.
 
