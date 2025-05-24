@@ -1,3 +1,6 @@
 [submodule "PostAPI"]
 	path = PostAPI
 	url = https://github.com/Sumit0ubey/PostAPI.git
+[submodule "EmailServiceAPI"]
+	path = EmailServiceAPI
+	url = https://github.com/Sumit0ubey/EmailServiceAPP.git
